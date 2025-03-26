@@ -1,0 +1,41 @@
+# Visual Studio stuff
+.vs/
+*.suo
+*.user
+*.ncb
+*.sdf
+*.opensdf
+
+# Rider / JetBrains stuff
+.idea/
+
+# NuGet packages
+packages/
+*.nupkg
+project.lock.json
+
+# Build files
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.pdb
+*.appx
+
+# Logs & temp files
+*.log
+*.bak
+*.cache
+*.swp
+*.DS_Store
+*.tmp
+~$*
+
+# Resharper
+*.resharper.*
+_ReSharper.*
+
+# Publish output
+publish/
+
