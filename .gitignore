@@ -30,7 +30,7 @@ out/
 *.swp
 *.DS_Store
 *.tmp
-*.ico
+*.zip
 ~$*
 
 # Resharper
